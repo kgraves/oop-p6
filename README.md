@@ -2,7 +2,7 @@
 ## This project is an academic project from the Fall 2012 semester
 
 ### usage:
-```python main.py```
+```$ python main.py```
 
 ### commands:
 - help       - displays a help message
